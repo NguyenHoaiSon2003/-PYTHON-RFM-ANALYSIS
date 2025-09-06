@@ -1,4 +1,4 @@
-# -PYTHON-RFM-ANALYSIS
+# Retail company - RFM Analysis (PYTHON)
 **I. CONTENT**
 
 RFM (Recency – Frequency – Monetary): is a part of Marketing Analysis and is used to analyze customer value, thereby helping businesses analyze each group of customers they have, from which they can have special marketing or care campaigns. Use the provided data set
