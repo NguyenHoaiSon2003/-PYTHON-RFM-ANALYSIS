@@ -1,4 +1,5 @@
-# Retail company - RFM Analysis (PYTHON)
+# Analyze RFM-Based Customer Segmentation of SuperStore – a global e-commerce company specializing in furniture, office supplies, and technology | Python
+
 **I. CONTENT**
 
 RFM (Recency – Frequency – Monetary): is a part of Marketing Analysis and is used to analyze customer value, thereby helping businesses analyze each group of customers they have, from which they can have special marketing or care campaigns. Use the provided data set
