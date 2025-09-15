@@ -1,4 +1,4 @@
-# Analyze RFM-Based Customer Segmentation of SuperStore – a global e-commerce company specializing in furniture, office supplies, and technology | Python
+# E-commerce RFM-Based Customer Segmentation  | Python
 
 **I. CONTENT**
 
